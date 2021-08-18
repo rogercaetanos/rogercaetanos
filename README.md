@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rogercaetanos
-- 👀 I’m interested in backend opportunities
+- 👀 I’m interested in backend and frontend opportunities
 - 🌱 I’m currently learning node.js, java, php and pyton
 - 💞️ I’m looking to collaborate on innovative projects
 - 📫 How to reach me @rogercaetanos
